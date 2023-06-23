@@ -49,10 +49,15 @@
    ],
  
  "ovpn_file":[
-  {"country":"usa","file":"https://raw.githubusercontent.com/proman00014/forme/main/usa.ovpn","username":"aRxsk8UnNGLvDPf7aymjv9kM","password":"GnKEn3nQJfkXTAfabUPqa3tB"},
-  {"country":"uk","file":"https://raw.githubusercontent.com/proman00014/forme/main/uk.ovpn","username":"aRxsk8UnNGLvDPf7aymjv9kM","password":"GnKEn3nQJfkXTAfabUPqa3tB"},
-  {"country":"fr1","file":"https://raw.githubusercontent.com/imad-123/callrecorder.github.io/gh-pages/it.ovpn","username":"gGsTnPQCwNqJ5b5z","password":"a7uPTJJbVTyUWb16xw96N7jzE3K0S9uG"},
-  {"country":"fr2","file":"https://raw.githubusercontent.com/imad-123/callrecorder.github.io/gh-pages/it.ovpn","username":"gGsTnPQCwNqJ5b5z","password":"a7uPTJJbVTyUWb16xw96N7jzE3K0S9uG"}
+  {"country":"usa",
+    "flag":"https://github.com/proman00014/forme/blob/main/usa.png",
+    "file":"https://raw.githubusercontent.com/proman00014/forme/main/usa.ovpn",
+    "username":"aRxsk8UnNGLvDPf7aymjv9kM","password":"GnKEn3nQJfkXTAfabUPqa3tB"},
+  {"country":"uk",
+    "flag":"https://github.com/proman00014/forme/blob/main/usa.png",
+    "file":"https://raw.githubusercontent.com/proman00014/forme/main/uk.ovpn",
+    "username":"aRxsk8UnNGLvDPf7aymjv9kM","password":"GnKEn3nQJfkXTAfabUPqa3tB"}
+
    ]
  
 }
